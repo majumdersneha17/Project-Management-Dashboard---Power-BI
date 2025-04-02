@@ -102,7 +102,7 @@ By leveraging the power of **Power BI’s analytics and visualization capabiliti
 ## 🔥 Conclusion  
 
 This **Project Management Dashboard** highlights the power of advanced analytics and interactive storytelling in delivering actionable insights. By transforming raw data into meaningful dashboards, project managers can achieve smarter decisions, better efficiency, and stronger outcomes.  
-
+## 🔥 See the live Power BI Report--> https://tinyurl.com/y5ckbv4w
 ---
 
 ### 🔗 #PowerBI #DataAnalytics #ProjectManagement #InteractiveDashboards #BusinessInsights #DAX #DataStorytelling
